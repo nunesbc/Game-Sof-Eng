@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ImmuneGuardian.Model
+namespace ImmuneGuardian.Model.InventorySystem
 {
     internal class Antiallergic : ICollectibleItem
     {

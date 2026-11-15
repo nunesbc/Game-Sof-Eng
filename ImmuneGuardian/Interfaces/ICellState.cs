@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace ImmuneGuardian.Interfaces
 {
-    internal class ICellState
+    internal interface ICellState
     {
+        public string Name { get; }
+
     }
 }
